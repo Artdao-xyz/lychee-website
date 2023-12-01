@@ -23,7 +23,7 @@
 
         <p class="text-center font-bold my-6 text-3xl tracking-[-0.5px] md:hidden">First DeFi super App</p>
 
-        <div class="flex items-center justify-center gap-2 md:hidden">
+        <div class="flex items-center justify-center gap-2 mb-6 md:hidden">
             <p class="text-white/50 text-xl font-normal ">Powered by</p>
             <img src="/layer-zero.svg" alt="Layer Zero">
         </div>
