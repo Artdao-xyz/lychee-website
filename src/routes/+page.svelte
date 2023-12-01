@@ -33,7 +33,7 @@
     </main>
 
     <footer class="bg-lychee-green text-black py-4 sm:py-8 md:py-10 gap-4 flex justify-center rounded-t-[105px] md:rounded-t-full md:items-center">
-            <a href='https://Discord.gg/lychee' class="md:mx-4 border-black border rounded-full py-2.5 md:py-2.5 px-6 md:px-8 text-base uppercase tracking-[-0.5px] md:leading-4">Join our Discord</a>
-            <a class="my-auto md:mx-4" href='https://twitter.com/LycheeProtocol'><img src="/x.svg" alt="Twitter"></a>
+            <a href='https://Discord.gg/lychee' target="_blank" class="md:mx-4 border-black border rounded-full py-2.5 md:py-2.5 px-6 md:px-8 text-base uppercase tracking-[-0.5px] md:leading-4">Join our Discord</a>
+            <a class="my-auto md:mx-4" target="_blank" href='https://twitter.com/LycheeProtocol'><img src="/x.svg" alt="Twitter"></a>
     </footer>
 </div>
